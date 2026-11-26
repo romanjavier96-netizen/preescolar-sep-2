@@ -1,0 +1,753 @@
+{
+ "fuente": "SEP (2024). Programa de Estudio para la Educación Preescolar: Programa Sintético de la Fase 2. https://educacionbasica.sep.gob.mx/wp-content/uploads/2024/06/Programa_Sintetico_Fase-2.pdf — columna 2°",
+ "campos": [
+  {
+   "id": "LEN",
+   "nombre": "Lenguajes",
+   "contenidos": [
+    {
+     "id": "LEN1",
+     "contenido": "Comunicación oral de necesidades, emociones, gustos, ideas y saberes, a través de los diversos lenguajes, desde una perspectiva comunitaria.",
+     "pda": [
+      {
+       "id": "LEN1.1",
+       "texto": "Manifiesta oralmente y de manera clara necesidades, emociones, gustos, preferencias e ideas, que construye en la convivencia diaria, y se da a entender apoyándose de distintos lenguajes."
+      },
+      {
+       "id": "LEN1.2",
+       "texto": "Escucha con atención a sus pares y espera su turno para hablar."
+      },
+      {
+       "id": "LEN1.3",
+       "texto": "Se interesa por lo que otras personas expresan, sienten y saben e intercambia sus puntos de vista."
+      }
+     ]
+    },
+    {
+     "id": "LEN2",
+     "contenido": "Narración de historias mediante diversos lenguajes, en un ambiente donde niñas y niños participen y se apropien de la cultura, a través de diferentes textos.",
+     "pda": [
+      {
+       "id": "LEN2.1",
+       "texto": "Lee con apoyo y narra con una secuencia lógica, diferentes textos literarios como leyendas, cuentos, fábulas, historias, y relatos de la comunidad, en las que aprecia otras formas de vida, de pensamiento y de comportamiento."
+      },
+      {
+       "id": "LEN2.2",
+       "texto": "Narra con secuencia lógica, historias que conoce o inventa, y las acompaña con recursos de los lenguajes artísticos."
+      },
+      {
+       "id": "LEN2.3",
+       "texto": "Modifica eventos, lugares o personajes de distintas narraciones y textos literarios, utilizando recursos de los lenguajes que reflejan experiencias, emociones y vivencias propias relacionadas con su cultura."
+      }
+     ]
+    },
+    {
+     "id": "LEN3",
+     "contenido": "Recursos y juegos del lenguaje que fortalecen la diversidad de formas de expresión oral, y que rescatan la o las lenguas de la comunidad y de otros lugares.",
+     "pda": [
+      {
+       "id": "LEN3.1",
+       "texto": "Participa en juegos del lenguaje de la tradición oral de la comunidad o de otros lugares, los dice con fluidez, ritmo y claridad."
+      },
+      {
+       "id": "LEN3.2",
+       "texto": "Utiliza distintos recursos de los lenguajes, tales como sonido, ritmo, música, velocidad y movimientos corporales, gestos o señas, para acompañar y modificar adivinanzas, canciones, trabalenguas, retahílas, coplas, entre otros, y con ello crea otras formas de expresión."
+      },
+      {
+       "id": "LEN3.3",
+       "texto": "Interpreta el significado de palabras desconocidas en los juegos del lenguaje, a partir de su contexto."
+      }
+     ]
+    },
+    {
+     "id": "LEN4",
+     "contenido": "Reconocimiento y aprecio de la diversidad lingüística, al identificar las formas en que se comunican las distintas personas de la comunidad.",
+     "pda": [
+      {
+       "id": "LEN4.1",
+       "texto": "Se familiariza con lenguas distintas a la suya que escucha en su comunidad e incorpora a su comunicación, expresiones de origen indígena, extranjero o de las lenguas de señas."
+      },
+      {
+       "id": "LEN4.2",
+       "texto": "Muestra interés por indagar significados de palabras, frases o señas, y las incorpora a su comunicación como una forma de enriquecerla."
+      }
+     ]
+    },
+    {
+     "id": "LEN5",
+     "contenido": "Representación gráfica de ideas y descubrimientos, al explorar los diversos textos que hay en su comunidad y otros lugares.",
+     "pda": [
+      {
+       "id": "LEN5.1",
+       "texto": "Interpreta, a partir de experiencias y referentes culturales, el contenido de diversos textos que le interesan y sabe para qué son."
+      },
+      {
+       "id": "LEN5.2",
+       "texto": "Representa gráficamente, con recursos personales, ideas y descubrimientos del entorno mediante textos conocidos."
+      },
+      {
+       "id": "LEN5.3",
+       "texto": "Comunica a diversas personas, mensajes con distintos propósitos."
+      },
+      {
+       "id": "LEN5.4",
+       "texto": "Comparte con sus pares los diversos textos de su interés, explica qué le gusta y por qué, e identifica su contenido."
+      }
+     ]
+    },
+    {
+     "id": "LEN6",
+     "contenido": "Expresión de emociones y experiencias, en igualdad de oportunidades, apoyándose de recursos gráficos personales y de los lenguajes artísticos.",
+     "pda": [
+      {
+       "id": "LEN6.1",
+       "texto": "Elige algunos recursos gráficos, como marcas propias, símbolos, dibujos o algunos otros de los lenguajes artísticos, al representar emociones y experiencias."
+      },
+      {
+       "id": "LEN6.2",
+       "texto": "Observa las producciones de sus pares y expresa su opinión."
+      },
+      {
+       "id": "LEN6.3",
+       "texto": "Intercambia ideas acerca de las producciones de sus compañeras y compañeros, y encuentra semejanzas con las propias."
+      },
+      {
+       "id": "LEN6.4",
+       "texto": "Explica a otras personas lo que representan sus producciones gráficas (alguna emoción, experiencia, paisaje, ser vivo o persona)."
+      }
+     ]
+    },
+    {
+     "id": "LEN7",
+     "contenido": "Producciones gráficas dirigidas a diversas destinatarias y diversos destinatarios, para establecer vínculos sociales y acercarse a la cultura escrita.",
+     "pda": [
+      {
+       "id": "LEN7.1",
+       "texto": "Reconoce que las producciones gráficas son importantes para mantener comunicación con su comunidad."
+      },
+      {
+       "id": "LEN7.2",
+       "texto": "Produce textos o mensajes de interés, con formas gráficas personales, copiando textos o dictando a alguien, con distintos propósitos y destinatarios."
+      },
+      {
+       "id": "LEN7.3",
+       "texto": "Representa su nombre y otras palabras comunes, con recursos propios y con distintos propósitos, tales como marcar sus producciones, registrar su asistencia, entre otros."
+      },
+      {
+       "id": "LEN7.4",
+       "texto": "Distingue semejanzas y diferencias con los nombres de sus pares, por los sonidos, marcas gráficas o letras."
+      }
+     ]
+    },
+    {
+     "id": "LEN8",
+     "contenido": "Reconocimiento de ideas o emociones en la interacción con manifestaciones culturales y artísticas y con la naturaleza, a través de diversos lenguajes.",
+     "pda": [
+      {
+       "id": "LEN8.1",
+       "texto": "Interpreta manifestaciones artísticas y culturales diversas (fotografías, música regional, murales, danzas, entre otras) a partir de los elementos que las componen."
+      },
+      {
+       "id": "LEN8.2",
+       "texto": "Explica lo que le provocan las manifestaciones artísticas y culturales; y escucha lo que sus pares comparten."
+      },
+      {
+       "id": "LEN8.3",
+       "texto": "Comparte su experiencia estética con sus pares, al mencionar lo que le gusta, disgusta, lo que le provocan ciertos colores, formas, figuras, rostros, sonidos, posturas, entre otros elementos de las manifestaciones artísticas y culturales de su comunidad u otros lugares."
+      },
+      {
+       "id": "LEN8.4",
+       "texto": "Relaciona en las manifestaciones artísticas y culturales, sucesos, experiencias o emociones personales."
+      },
+      {
+       "id": "LEN8.5",
+       "texto": "Reconoce que existen opiniones diferentes en torno a la diversidad de manifestaciones artísticas y culturales."
+      }
+     ]
+    },
+    {
+     "id": "LEN9",
+     "contenido": "Producción de expresiones creativas con los distintos elementos de los lenguajes artísticos.",
+     "pda": [
+      {
+       "id": "LEN9.1",
+       "texto": "Combina elementos de los lenguajes artísticos, tales como formas, colores, texturas, tamaños, líneas, sonidos, música, voces, entre otros, en producciones creativas, para representar el mundo cercano, experiencias personales, situaciones imaginarias o algún cuento."
+      },
+      {
+       "id": "LEN9.2",
+       "texto": "Aprecia con empatía las expresiones de otras personas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "SPC",
+   "nombre": "Saberes y Pensamiento Científico",
+   "contenidos": [
+    {
+     "id": "SPC1",
+     "contenido": "Exploración de la diversidad natural que existe en la comunidad y en otros lugares.",
+     "pda": [
+      {
+       "id": "SPC1.1",
+       "texto": "Observa y describe en su lengua materna, animales de su entorno: cómo son, cómo crecen, dónde viven, qué comen, los cuidados que necesitan y otros aspectos que le causan curiosidad."
+      },
+      {
+       "id": "SPC1.2",
+       "texto": "Amplía su conocimiento acerca de las plantas: su proceso de crecimiento, lo que necesitan para vivir, los lugares donde crecen, entre otros."
+      },
+      {
+       "id": "SPC1.3",
+       "texto": "Explica en su lengua materna y con sus palabras, cómo y por qué suceden algunos procesos naturales."
+      },
+      {
+       "id": "SPC1.4",
+       "texto": "Realiza experimentos para poner a prueba sus ideas y supuestos sobre lo que observa en su entorno."
+      },
+      {
+       "id": "SPC1.5",
+       "texto": "Consulta diferentes fuentes de información, digitales o impresas, para ampliar lo que sabe o intuye."
+      },
+      {
+       "id": "SPC1.6",
+       "texto": "Representa de manera gráfica lo que sabe de la naturaleza."
+      }
+     ]
+    },
+    {
+     "id": "SPC2",
+     "contenido": "Saberes familiares y comunitarios que resuelven situaciones y necesidades en el hogar y la comunidad.",
+     "pda": [
+      {
+       "id": "SPC2.1",
+       "texto": "Selecciona saberes familiares y comunitarios útiles, para resolver situaciones diversas, los compara con los de sus pares y cuida su integridad y la de los demás."
+      },
+      {
+       "id": "SPC2.2",
+       "texto": "Reconoce que los saberes familiares se comparten, modifican y enriquecen entre las personas de una comunidad."
+      },
+      {
+       "id": "SPC2.3",
+       "texto": "Explica en su lengua materna y con sus palabras, fenómenos naturales a partir de leyendas e historias de la comunidad, y con ayuda, los contrasta con otras fuentes de consulta."
+      }
+     ]
+    },
+    {
+     "id": "SPC3",
+     "contenido": "Los seres vivos: elementos, procesos y fenómenos naturales que ofrecen oportunidades para entender y explicar hechos cotidianos, desde distintas perspectivas.",
+     "pda": [
+      {
+       "id": "SPC3.1",
+       "texto": "Hace preguntas sobre la naturaleza y, en colaboración con sus pares, pone a prueba ideas para encontrar respuestas que tengan sentido."
+      },
+      {
+       "id": "SPC3.2",
+       "texto": "Expresa en su lengua materna ideas acerca de por qué se producen algunos fenómenos naturales como el calor, el frío, un huracán o el rocío, e indaga en diferentes fuentes de consulta."
+      },
+      {
+       "id": "SPC3.3",
+       "texto": "Muestra interés sobre lo que sus pares saben acerca de fenómenos y procesos de la naturaleza, y reconoce que todas y todos pueden participar en la resolución de dudas."
+      },
+      {
+       "id": "SPC3.4",
+       "texto": "Describe los cambios físicos que percibe al crecer."
+      }
+     ]
+    },
+    {
+     "id": "SPC4",
+     "contenido": "Los saberes numéricos como herramienta para resolver situaciones del entorno, en diversos contextos socioculturales.",
+     "pda": [
+      {
+       "id": "SPC4.1",
+       "texto": "Usa números con distintos propósitos y en distintas situaciones."
+      },
+      {
+       "id": "SPC4.2",
+       "texto": "Dice en orden los números que conoce y gradualmente amplía su rango de conteo."
+      },
+      {
+       "id": "SPC4.3",
+       "texto": "Cuenta objetos y elementos de su entorno."
+      },
+      {
+       "id": "SPC4.4",
+       "texto": "Compara colecciones de pocos elementos y las representa con dibujos o símbolos personales."
+      },
+      {
+       "id": "SPC4.5",
+       "texto": "Propone códigos personales para representar datos en forma gráfica."
+      },
+      {
+       "id": "SPC4.6",
+       "texto": "Resuelve de manera colaborativa situaciones sencillas que involucran números y que implican juntar, agregar, separar o quitar elementos."
+      },
+      {
+       "id": "SPC4.7",
+       "texto": "Se familiariza con el uso de monedas y billetes en diversas situaciones e intuye su valor."
+      },
+      {
+       "id": "SPC4.8",
+       "texto": "Intercambia con sus pares lo que ha aprendido sobre los números, para reconocer maneras más eficientes de usarlos en su entorno sociocultural en diversas situaciones."
+      }
+     ]
+    },
+    {
+     "id": "SPC5",
+     "contenido": "El dominio del espacio y reconocimiento de formas en el entorno desde diversos puntos de observación y mediante desplazamientos o recorridos.",
+     "pda": [
+      {
+       "id": "SPC5.1",
+       "texto": "Ubica personas, objetos y elementos de su entorno con referentes personales y los comunica a sus pares y otras personas."
+      },
+      {
+       "id": "SPC5.2",
+       "texto": "Establece relaciones de orientación y direccionalidad al interactuar y desplazarse en su entorno (hacia, desde, atrás, arriba, da vuelta)."
+      },
+      {
+       "id": "SPC5.3",
+       "texto": "Reconoce a partir de puntos de referencias personales de interioridad y proximidad, a las personas, objetos y elementos de su comunidad."
+      },
+      {
+       "id": "SPC5.4",
+       "texto": "Toma en cuenta que sus pares tienen otros referentes que debe considerar, ya que tienen otro punto de vista espacial."
+      },
+      {
+       "id": "SPC5.5",
+       "texto": "Reconoce semejanzas y diferencias entre las formas de los objetos de su entorno, explora y describe algunas características geométricas."
+      },
+      {
+       "id": "SPC5.6",
+       "texto": "Identifica formas geométricas en objetos de su entorno y los representa con dibujos y líneas."
+      },
+      {
+       "id": "SPC5.7",
+       "texto": "Distingue y reproduce patrones de repetición o crecimiento en una secuencia."
+      },
+      {
+       "id": "SPC5.8",
+       "texto": "Crea formas y composiciones geométricas con materiales de arte y construcción."
+      },
+      {
+       "id": "SPC5.9",
+       "texto": "Juega con el tangram para hacer composiciones y arma rompecabezas."
+      }
+     ]
+    },
+    {
+     "id": "SPC6",
+     "contenido": "Las magnitudes de longitud, peso, capacidad y tiempo en situaciones cotidianas del hogar y del entorno sociocultural.",
+     "pda": [
+      {
+       "id": "SPC6.1",
+       "texto": "Compara la longitud de dos o más objetos de uso cotidiano de manera directa o por superposición, contrasta sus ideas con sus pares."
+      },
+      {
+       "id": "SPC6.2",
+       "texto": "Estima si un lugar está más cerca o lejos que otro, y propone formas de medirlo para comprobarlo."
+      },
+      {
+       "id": "SPC6.3",
+       "texto": "Sopesa dos o más objetos para comparar su peso y dice cuál es más pesado o ligero que otro."
+      },
+      {
+       "id": "SPC6.4",
+       "texto": "Organiza actividades y juegos con sus pares, estableciendo una secuencia en su duración al llevarlas a cabo."
+      },
+      {
+       "id": "SPC6.5",
+       "texto": "Utiliza palabras relacionadas con el paso del tiempo que aprende en su contexto social, tales como: antes, después, primero, al final, temprano, en la mañana, en la tarde, en la noche, entre otras."
+      }
+     ]
+    },
+    {
+     "id": "SPC7",
+     "contenido": "Clasificación y experimentación con objetos y elementos del entorno que reflejan la diversidad de la comunidad o región.",
+     "pda": [
+      {
+       "id": "SPC7.1",
+       "texto": "Compara y organiza elementos del entorno, como objetos cotidianos o artesanías de su comunidad, de acuerdo con uno o dos criterios definidos con sus pares: color, forma, tamaño, textura o uso."
+      },
+      {
+       "id": "SPC7.2",
+       "texto": "Organiza por sus semejanzas, objetos y elementos de su entorno, con un propósito definido y los representa mediante dibujos, símbolos, pictogramas en cuadros y tablas sencillas."
+      },
+      {
+       "id": "SPC7.3",
+       "texto": "Mezcla o combina elementos de su entorno e identifica reacciones diversas, siguiendo normas de seguridad."
+      }
+     ]
+    },
+    {
+     "id": "SPC8",
+     "contenido": "Características de objetos y comportamiento de los materiales del entorno sociocultural.",
+     "pda": [
+      {
+       "id": "SPC8.1",
+       "texto": "Percibe y describe cómo cambian los objetos y materiales de la naturaleza y de su entorno, al manipularlos o modificar sus condiciones, al modelar con masa, al observar cómo se derrite un helado si se deja al sol o cómo se mezclan los ingredientes para hacer un pastel."
+      },
+      {
+       "id": "SPC8.2",
+       "texto": "Explora las características de los materiales, para identificar su comportamiento al combinar los recursos artísticos, en actividades tales como modelar, construir, dibujar, colorear o pintar."
+      },
+      {
+       "id": "SPC8.3",
+       "texto": "Identifica otros usos que sus pares y las demás personas le dan a los objetos y materiales, en función de sus características y el contexto de uso."
+      },
+      {
+       "id": "SPC8.4",
+       "texto": "Identifica de dónde provienen algunos sonidos de su entorno y cuál es la fuente sonora, los imita y reproduce."
+      }
+     ]
+    },
+    {
+     "id": "SPC9",
+     "contenido": "Objetos y artefactos tecnológicos que mejoran y facilitan la vida familiar y de la comunidad.",
+     "pda": [
+      {
+       "id": "SPC9.1",
+       "texto": "Observa y explica cómo entiende que funcionan los juguetes, objetos o artefactos tecnológicos del hogar, la escuela y la comunidad, por qué son útiles, y qué beneficios aportan a las personas y a la comunidad."
+      },
+      {
+       "id": "SPC9.2",
+       "texto": "Reconoce en su entorno sociocultural, diferentes usos que las personas le dan a los juguetes, objetos y artefactos tecnológicos, y comparte sus descubrimientos con sus pares para crear nuevas formas de usarlos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ENS",
+   "nombre": "Ética, Naturaleza y Sociedades",
+   "contenidos": [
+    {
+     "id": "ENS1",
+     "contenido": "Interacción, cuidado, conservación y regeneración de la naturaleza, que favorece la construcción de una conciencia socioambiental.",
+     "pda": [
+      {
+       "id": "ENS1.1",
+       "texto": "Se relaciona con la naturaleza y considera la importancia de sus elementos para la vida (aire, sol, agua y suelo)."
+      },
+      {
+       "id": "ENS1.2",
+       "texto": "Aprecia la diversidad de características de los seres vivos y no vivos que hay en la naturaleza y sugiere formas de cuidarlos y preservarlos."
+      },
+      {
+       "id": "ENS1.3",
+       "texto": "Promueve actitudes y acciones de cuidado hacia la naturaleza e involucra a las personas de su familia y escuela para colaborar en ellas."
+      }
+     ]
+    },
+    {
+     "id": "ENS2",
+     "contenido": "Transformación responsable del entorno al satisfacer necesidades básicas de alimentación, vestido y vivienda.",
+     "pda": [
+      {
+       "id": "ENS2.1",
+       "texto": "Observa que las personas transforman la naturaleza al interactuar con ella para satisfacer sus necesidades."
+      },
+      {
+       "id": "ENS2.2",
+       "texto": "Distingue acciones que son benéficas para su entorno, tales como sembrar y cuidar el crecimiento de las plantas, cuidar a los animales, respetar las reservas naturales, entre otras."
+      },
+      {
+       "id": "ENS2.3",
+       "texto": "Reconoce que todas las personas tienen necesidades básicas, como la alimentación, el vestido y la vivienda, y que estas se satisfacen con recursos de la naturaleza, como el agua simple potable para beber; frutas y verduras para comer, el algodón, la seda y el lino para hacer algunas prendas de ropa."
+      },
+      {
+       "id": "ENS2.4",
+       "texto": "Propone acciones para cuidar y preservar su entorno natural, como evitar el consumo de desechables y empaques no necesarios; el reciclado y reúso de materiales, el ahorro de agua y de energía eléctrica, entre otras."
+      },
+      {
+       "id": "ENS2.5",
+       "texto": "Promueve con la colaboración de las familias, el uso responsable de los recursos de la naturaleza al satisfacer necesidades de alimentación, vestido y vivienda."
+      }
+     ]
+    },
+    {
+     "id": "ENS3",
+     "contenido": "Construcción de la identidad y pertenencia a una comunidad y país a partir del conocimiento de su historia, sus celebraciones, conmemoraciones tradicionales y obras del patrimonio artístico y cultural.",
+     "pda": [
+      {
+       "id": "ENS3.1",
+       "texto": "Construye de manera informal un sentido de pertenencia a su comunidad, al interpretar el significado de sus celebraciones y conmemoraciones."
+      },
+      {
+       "id": "ENS3.2",
+       "texto": "Intercambia con sus pares, experiencias y vivencias al participar en eventos, celebraciones y conmemoraciones de su comunidad, y las representa con recursos artísticos."
+      },
+      {
+       "id": "ENS3.3",
+       "texto": "Reconoce que los eventos, celebraciones y conmemoraciones son parte de la historia de su comunidad y país."
+      },
+      {
+       "id": "ENS3.4",
+       "texto": "Conoce y disfruta lugares de relevancia natural, cultural e histórica de su comunidad y país, como monumentos, zonas arqueológicas, áreas naturales protegidas, museos o casas de cultura."
+      },
+      {
+       "id": "ENS3.5",
+       "texto": "Explica con sus propias palabras, lo que siente y disfruta acerca de las tradiciones, celebraciones y elementos culturales y artísticos de su comunidad."
+      }
+     ]
+    },
+    {
+     "id": "ENS4",
+     "contenido": "Cambios que ocurren en los lugares, entornos, objetos, costumbres y formas de vida de las distintas familias y comunidades con el paso del tiempo.",
+     "pda": [
+      {
+       "id": "ENS4.1",
+       "texto": "Evoca, con apoyo de sus familiares, acontecimientos y sucesos personales relevantes de su historia de vida y los comparte con sus pares, mediante narraciones y fotografías."
+      },
+      {
+       "id": "ENS4.2",
+       "texto": "Se da cuenta de que al pasar el tiempo se producen cambios en sus rasgos físicos, en los lugares que frecuenta, en los objetos y en las costumbres de las distintas familias y de la comunidad."
+      }
+     ]
+    },
+    {
+     "id": "ENS5",
+     "contenido": "Labores y servicios que contribuyen al bien común de las distintas familias y comunidades.",
+     "pda": [
+      {
+       "id": "ENS5.1",
+       "texto": "Identifica que las personas realizan actividades diversas y ofrecen distintos servicios que contribuyen a lograr metas comunes."
+      },
+      {
+       "id": "ENS5.2",
+       "texto": "Comparte con sus pares la importancia de los trabajos y servicios que las y los integrantes de las familias desarrollan en sus hogares y la comunidad, en condiciones de igualdad y equidad."
+      }
+     ]
+    },
+    {
+     "id": "ENS6",
+     "contenido": "Los derechos de niñas y niños como base para el bienestar integral y el establecimiento de acuerdos que favorecen la convivencia pacífica.",
+     "pda": [
+      {
+       "id": "ENS6.1",
+       "texto": "Expresa dudas acerca del significado de algunos de sus derechos a personas adultas, y los relaciona con situaciones cotidianas."
+      },
+      {
+       "id": "ENS6.2",
+       "texto": "Identifica algunas situaciones en las que sus derechos y los de otras niñas y otros niños, no son respetados."
+      },
+      {
+       "id": "ENS6.3",
+       "texto": "Expresa lo que entiende acerca de los derechos de niñas y niños, dice cómo los vive y disfruta en situaciones cotidianas, y escucha cómo lo hacen sus pares."
+      },
+      {
+       "id": "ENS6.4",
+       "texto": "Reconoce que todas las niñas y todos los niños tienen derechos, sin importar su origen étnico, condición, color de piel, género, edad, discapacidad o lengua y que deben respetarse en cualquier contexto y lugar."
+      },
+      {
+       "id": "ENS6.5",
+       "texto": "Establece acuerdos con sus pares y otras personas para mejorar la convivencia en beneficio común."
+      }
+     ]
+    },
+    {
+     "id": "ENS7",
+     "contenido": "La diversidad de personas y familias en la comunidad y su convivencia, en un ambiente de equidad, libertad, inclusión y respeto a los derechos humanos.",
+     "pda": [
+      {
+       "id": "ENS7.1",
+       "texto": "Expresa algunas de sus costumbres y rutinas familiares, y las compara con las de sus pares, encontrando similitudes."
+      },
+      {
+       "id": "ENS7.2",
+       "texto": "Se da cuenta de que las familias son diversas y distintas entre sí, y que esto favorece la convivencia en un entorno de inclusión y respeto."
+      }
+     ]
+    },
+    {
+     "id": "ENS8",
+     "contenido": "La cultura de paz como una forma de relacionarse con otras personas para promover la inclusión y el respeto a la diversidad.",
+     "pda": [
+      {
+       "id": "ENS8.1",
+       "texto": "Construye acuerdos para una convivencia pacífica en su hogar y escuela, al escuchar y expresar con respeto ideas y opiniones propias y de las demás personas, que fortalezcan una cultura de paz."
+      },
+      {
+       "id": "ENS8.2",
+       "texto": "Acuerda con su familia, pares y otras personas, las responsabilidades que tendrá en su hogar y escuela, y explica por qué es importante cumplirlas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "HUC",
+   "nombre": "De lo Humano y lo Comunitario",
+   "contenidos": [
+    {
+     "id": "HUC1",
+     "contenido": "Construcción de la identidad personal a partir de su pertenencia a un territorio, su origen étnico, cultural y lingüístico, y la interacción con personas cercanas.",
+     "pda": [
+      {
+       "id": "HUC1.1",
+       "texto": "Reconoce algunos rasgos de su identidad, dice cómo es físicamente, qué se le facilita, qué se le dificulta, qué le gusta, qué no le gusta, y los expresa en su lengua materna o con otros lenguajes."
+      },
+      {
+       "id": "HUC1.2",
+       "texto": "Distingue semejanzas y diferencias con las demás personas, a partir de distintos rasgos de identidad como su nombre, características físicas, formas de vestir, hablar, alimentarse, entre otros."
+      },
+      {
+       "id": "HUC1.3",
+       "texto": "Identifica que todas y todos pertenecen a familias que son diversas y muestra respeto a las formas de ser, de pensar y de relacionarse con las y los demás."
+      },
+      {
+       "id": "HUC1.4",
+       "texto": "Representa la imagen que tiene de sí y de sus pares con apoyo de diversos recursos de los lenguajes artísticos."
+      }
+     ]
+    },
+    {
+     "id": "HUC2",
+     "contenido": "Posibilidades de movimiento en diferentes espacios, para favorecer las habilidades motrices.",
+     "pda": [
+      {
+       "id": "HUC2.1",
+       "texto": "Adapta sus movimientos y fortalece su lateralidad al desplazarse en espacios de la escuela, casa y comunidad en distintas direcciones y con velocidades variadas; descubre nuevas formas de moverse."
+      },
+      {
+       "id": "HUC2.2",
+       "texto": "Mantiene el control y equilibrio de los distintos segmentos corporales tanto en situaciones estáticas (sostenerse en un pie, hacer una figura con el cuerpo, entre otras) como en movimientos sin desplazamiento (girar, brincar, etcétera)."
+      },
+      {
+       "id": "HUC2.3",
+       "texto": "Explica los cambios que experimenta su cuerpo cuando realiza actividad física, y con ayuda, reconoce señales de dolor o malestar."
+      }
+     ]
+    },
+    {
+     "id": "HUC3",
+     "contenido": "Precisión y coordinación en los movimientos al usar objetos, herramientas y materiales, de acuerdo con sus condiciones, capacidades y características.",
+     "pda": [
+      {
+       "id": "HUC3.1",
+       "texto": "Controla sus movimientos al usar objetos, herramientas y materiales en juegos y actividades de experimentación, creación personal y resolución de problemas, atendiendo las normas de seguridad."
+      },
+      {
+       "id": "HUC3.2",
+       "texto": "Descubre nuevas formas de coordinar sus movimientos al transportar objetos con alguna parte del cuerpo, caminar y lanzar una pelota, alternar el uso de manos y pies, entre otros."
+      },
+      {
+       "id": "HUC3.3",
+       "texto": "Controla cada vez con mayor precisión sus movimientos en coordinación con sus sentidos, al jugar y realizar actividades."
+      }
+     ]
+    },
+    {
+     "id": "HUC4",
+     "contenido": "Las emociones en la interacción con diversas personas y situaciones.",
+     "pda": [
+      {
+       "id": "HUC4.1",
+       "texto": "Percibe cambios corporales, y con ayuda, nombra las emociones que experimenta, como: alegría, tristeza, sorpresa, miedo o enojo, y reconoce las situaciones que las provocan."
+      },
+      {
+       "id": "HUC4.2",
+       "texto": "Manifiesta a una persona adulta, de manera verbal o con otros lenguajes, si alguien le hace sentir incomodidad, le provoca miedo o inseguridad."
+      },
+      {
+       "id": "HUC4.3",
+       "texto": "Indaga algunas medidas para aprender a pedir ayuda y ponerse a salvo, como gritar, correr, recurrir a una persona de confianza, entre otras."
+      },
+      {
+       "id": "HUC4.4",
+       "texto": "Muestra respeto y empatía hacia la expresión de emociones de las personas, comprende cuando alguien necesita ayuda y la ofrece."
+      }
+     ]
+    },
+    {
+     "id": "HUC5",
+     "contenido": "Interacción con personas de diversos contextos, que contribuyan al establecimiento de relaciones positivas y a una convivencia basada en la aceptación de la diversidad.",
+     "pda": [
+      {
+       "id": "HUC5.1",
+       "texto": "Interactúa con distintas personas en situaciones diversas, y establecen acuerdos para la participación, la organización y la convivencia."
+      },
+      {
+       "id": "HUC5.2",
+       "texto": "Se relaciona con respeto y colabora de manera asertiva para el logro de propósitos comunes en juegos y actividades."
+      },
+      {
+       "id": "HUC5.3",
+       "texto": "Manifiesta disposición para establecer acuerdos que beneficien a todas y todos a fin de convivir con respeto y tolerancia a las diferencias."
+      },
+      {
+       "id": "HUC5.4",
+       "texto": "Conoce distintas alternativas para colaborar con la comunidad e integrarse a ella, de acuerdo con sus condiciones."
+      }
+     ]
+    },
+    {
+     "id": "HUC6",
+     "contenido": "Cuidado de la salud personal y colectiva, al llevar a cabo acciones de higiene, limpieza, y actividad física, desde los saberes prácticos de la comunidad y la información científica.",
+     "pda": [
+      {
+       "id": "HUC6.1",
+       "texto": "Se familiariza con diversas prácticas que favorecen el cuidado de la salud desde la experiencia y visión de otras culturas, sin ponerse en riesgo."
+      },
+      {
+       "id": "HUC6.2",
+       "texto": "Busca con ayuda, información en diversas fuentes científicas acerca de las acciones que están a su alcance, para el cuidado de la salud personal y colectiva, y las pone en práctica."
+      },
+      {
+       "id": "HUC6.3",
+       "texto": "Realiza acciones de higiene personal y limpieza, antes, durante y después de realizar sus actividades cotidianas."
+      },
+      {
+       "id": "HUC6.4",
+       "texto": "Disfruta de realizar actividades físicas y reconoce los beneficios para su salud."
+      },
+      {
+       "id": "HUC6.5",
+       "texto": "Sabe a dónde o con quién acudir para mantener su salud o cuando tiene algún malestar físico o enfermedad."
+      }
+     ]
+    },
+    {
+     "id": "HUC7",
+     "contenido": "Consumo de alimentos y bebidas que benefician la salud, de acuerdo con los contextos socioculturales.",
+     "pda": [
+      {
+       "id": "HUC7.1",
+       "texto": "Distingue alimentos y bebidas que son saludables, así como los que ponen en riesgo la salud, y reconoce que existen opciones alimentarias sanas que contribuyen a una mejor calidad de vida para todas las personas."
+      },
+      {
+       "id": "HUC7.2",
+       "texto": "Indaga acerca de la comida tradicional de su comunidad y otras regiones, y aprecia la diversidad de alimentos y platillos saludables que se consumen en el país."
+      },
+      {
+       "id": "HUC7.3",
+       "texto": "Cuida su salud al llevar a cabo medidas de seguridad, higiene y limpieza, en la preparación y consumo de alimentos y bebidas saludables."
+      }
+     ]
+    },
+    {
+     "id": "HUC8",
+     "contenido": "Medidas de prevención de accidentes y situaciones de riesgo de acuerdo con el contexto, para el cuidado de la integridad personal y colectiva.",
+     "pda": [
+      {
+       "id": "HUC8.1",
+       "texto": "Expresa qué comportamientos, objetos, materiales y lugares pueden provocar accidentes y poner en riesgo la seguridad y el bienestar personal y colectivo."
+      },
+      {
+       "id": "HUC8.2",
+       "texto": "Lleva a cabo acciones para prevenir accidentes y salvaguardar su bienestar y seguridad, personales y colectivos."
+      },
+      {
+       "id": "HUC8.3",
+       "texto": "Reconoce las situaciones de riesgo provocadas por fenómenos naturales o por la acción humana, y sabe qué hacer y cómo reaccionar para salvaguardar su integridad."
+      },
+      {
+       "id": "HUC8.4",
+       "texto": "Atiende medidas de seguridad para aprender cómo actuar antes, durante y después de una emergencia y cuidar su integridad y la de las demás personas."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+teco 0.33 | Toca el yoyo. → y esto cae el yo-jove.
+teco 0.80 | Junta diez piedritas y cuéntalas. → Junta 10 piedritas y cuéntalas
+teco 0.00 | Uno, dos, tres, cuatro, cinco, → 1, 2, 3, 4, 5
+teco 1.00 | ¿Cuántas carreras hay? → ¿Cuántas carreras hay?
+teco 1.00 | Cuenta a tus compañeros qué hiciste en vacaciones. → Cuenta a tus compañeros que hiciste en vacaciones.
+luna 1.00 | Dibuja cómo celebra tu familia. → dibuja, como celebra tu familia.
+luna 0.75 | ¿Qué pan se comparte en enero en muchas casas? → ¿Qué panse comparte en enero en muchas casas?
+luna 1.00 | sí, cuando quiera → Sí, cuando quiera.
+luna 0.50 | Es de buen amigo → Este buen amigo.
+luna 0.80 | Toca la olla de barro. → Soca, la olla de barro.
+leo 0.83 | ¿Con qué me lavo los dientes? → con que me la abo a los dientes.
+leo 0.50 | Desperdicia agua → ¡Espericia, agua!
+leo 0.75 | mi corazón hace tum, tum, → Mi corazón hace tuntum.
+leo 0.75 | Primero hay una semilla. → Primera hay una semilla
+leo 0.50 | Carga dos objetos: ¿cuál pesa más? → para los sujetos, ¿cuál pesa más?
+axi 0.67 | Elige tu personaje. → Elife tu personaje.
+axi 0.67 | con el cepillo → con el superior
+axi 0.33 | a dar vueltas → Adar vueltas
+axi 0.67 | Dibuja a tu manera el final de un cuento. → dibujar tu manera y final de un cuento.
+axi 1.00 | Sirve para hacer una tarjeta, o no sirve. → sirve para hacer una tarjeta, o no sirve
+promedio de palabras reconocidas: 0.69

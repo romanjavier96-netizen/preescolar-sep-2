@@ -1,0 +1,46 @@
+PASS pantalla de inicio
+PASS 3 alumnos en la lista — 3
+PASS encabezado muestra la escuela
+PASS 185 días de clase en el calendario — 185
+PASS todos los días recorridos se muestran y se completan (185) — 0 fallas
+PASS contenido distinto cada día — 185/185
+PASS variedad de plantillas — {"saludo":185,"canto":41,"contar":20,"quiz":95,"pausa":122,"fuera":185,"vocab":38,"comparar":19,"psort":63,"sonido":23,"formas":19,"respira":63,"cuento":23,"patron":18,"memorama":34,"numeral":17,"posicion":17,"nombre":23,"clasificar":19,"medir":19,"tiempo":17,"situaciones":2,"rima":15,"juntar":13,"silabas":13,"monedas":7}
+PASS sin clases 2026-08-29 — El ciclo escolar 2026-2027 empieza el lunes 31 de agosto de 2026
+PASS sin clases 2026-09-16 — Día de la Independencia de México
+PASS sin clases 2026-09-25 — Consejo Técnico Escolar (sin clases)
+PASS sin clases 2026-11-02 — Día de Muertos
+PASS sin clases 2026-11-13 — Registro de calificaciones (sin clases)
+PASS sin clases 2026-11-16 — Aniversario de la Revolución Mexicana (día de descanso)
+PASS sin clases 2026-12-25 — Vacaciones de invierno
+PASS sin clases 2027-01-01 — Vacaciones de invierno
+PASS sin clases 2027-01-06 — Suspensión de labores docentes
+PASS sin clases 2027-02-01 — Día de la Constitución (día de descanso)
+PASS sin clases 2027-03-15 — Natalicio de Benito Juárez (día de descanso)
+PASS sin clases 2027-03-25 — Vacaciones de primavera
+PASS sin clases 2027-05-05 — Batalla de Puebla
+PASS sin clases 2027-07-20 — Terminó el ciclo escolar 2026-2027. ¡Felices vacaciones!
+PASS sin clases 2026-08-15 — El ciclo escolar 2026-2027 empieza el lunes 31 de agosto de 2026
+PASS sin clases 2026-12-28 — Vacaciones de invierno
+PASS práctica libre abre actividades
+PASS botón próximo día de clases → 6 ene? no: 7 ene 2027 — Jueves 7 de enero de 2027
+PASS calendario: 185 días de clase de agosto a julio — agosto 2026:1/1 septiembre 2026:20/20 octubre 2026:21/21 noviembre 2026:17/17 diciembre 2026:14/14 enero 2027:16/16 febrero 2027:18/18 marzo 2027:13/13 abril 2027:19/19 mayo 2027:19/19 junio 2027:21/21 julio 2027:6/6
+PASS tocar un día del calendario abre ese día
+PASS respuesta equivocada no abre el panel
+PASS respuesta correcta abre el panel
+PASS ficha de planeación con PDA
+PASS 30 fichas consecutivas con PDA — 30
+PASS imprimir ficha llena #print
+PASS lista del grupo
+PASS agregar alumno desde el panel
+PASS avance del ciclo con porcentajes — 🐵 Sofi100%100%—100%1811 / 130😊185🖨️
+PASS avance por trimestre
+PASS pestaña para casa
+PASS CCT guardado
+PASS botón de papás en modo casa
+PASS modo casa abre en 'Hoy en casa'
+PASS la voz habló — {"n":12517,"via":{"clip":12517}}
+PASS los datos siguen después de recargar
+PASS cero errores de consola / red
+
+ERRORES:
+

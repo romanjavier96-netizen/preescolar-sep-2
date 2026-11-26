@@ -1,0 +1,16 @@
+import puppeteer from "puppeteer-core";
+const b = await puppeteer.launch({ executablePath: "/usr/bin/google-chrome", headless: "new", args: ["--no-sandbox"] });
+const p = await b.newPage(); await p.setViewport({ width: 412, height: 860, isMobile: true, hasTouch: true });
+const errs = []; p.on("pageerror", e => errs.push("PE " + e.message)); p.on("console", m => { if (m.type() === "error") errs.push("CE " + m.text()); });
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+const c = async id => { await p.$eval(`[data-testid="${id}"]`, e => e.click()); await sleep(300); };
+await p.goto("http://localhost:8795/?fecha=2026-11-26"); await sleep(500);
+await p.screenshot({ path: "/tmp/s0.png" });
+await c("start"); await c("mode-escuela"); await p.type("#f-school", "Jardín de Niños Benito Juárez"); await c("school-save");
+await p.type("#f-name", "Sofi"); await c("student-add"); await p.type("#f-name", "Mateo"); await c("student-add"); await c("student-done");
+await p.screenshot({ path: "/tmp/s1.png" });
+await p.$eval('.student', e => e.click()); await sleep(400);
+await p.screenshot({ path: "/tmp/s2.png", fullPage: true });
+await c("act-1"); await sleep(400); await p.screenshot({ path: "/tmp/s3.png" });
+console.log(errs.join("\n") || "no errors");
+await b.close();

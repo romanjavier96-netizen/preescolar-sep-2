@@ -1,0 +1,29 @@
+grabado 57.6 s; segundos con sonido: 23.9; frases como clip MP3: 13, por voz del sistema: 0; errores: 0
+PASS silencio antes de tocar (no debe sonar sin gesto): 0s con sonido (pico RMS 0) en ventana de 2.5s
+PASS Probar sonido: 2.5s con sonido (pico RMS 0.304) en ventana de 4.1s
+PASS Toca para empezar → Hoy: 4.3s con sonido (pico RMS 0.31) en ventana de 5.0s
+PASS abrir actividad 1 (saludo): 1.8s con sonido (pico RMS 0.299) en ventana de 5.0s
+PASS tocar carita feliz: 4.2s con sonido (pico RMS 0.302) en ventana de 5.0s
+PASS abrir actividad 3 (Saberes): 1.1s con sonido (pico RMS 0.226) en ventana de 7.0s
+PASS respuesta equivocada: 1.7s con sonido (pico RMS 0.289) en ventana de 3.5s
+PASS respuesta correcta: 1.8s con sonido (pico RMS 0.272) en ventana de 5.0s
+PASS botón repetir 🔊: 1.1s con sonido (pico RMS 0.26) en ventana de 5.0s
+PASS voz de luna: 1.2s con sonido (pico RMS 0.269) en ventana de 4.5s
+PASS voz de leo: 1.9s con sonido (pico RMS 0.285) en ventana de 4.5s
+PASS voz de axi: 2.3s con sonido (pico RMS 0.303) en ventana de 4.5s
+
+4.3s clip: Probando el sonido. ¿Me escuchas bien?
+8.3s clip: Estas son las actividades de hoy. Toca la primera para empezar.
+13.4s clip: ¡Hola! ¿Cómo te sientes hoy?
+18.4s clip: ¡Qué bueno que estás feliz!
+20.3s clip: ¡Terminaste la actividad! Ganaste estrellas.
+23.4s clip: ¿Dónde hay más?
+30.4s clip: ¡Casi! Intenta otra vez.
+34.0s clip: ¡Lo lograste!
+35.1s clip: ¿Dónde hay más?
+39.0s clip: ¿Dónde hay más?
+44.0s clip: ¡Hola! Soy Luna.
+48.6s clip: ¡Hola! Soy Leo.
+53.1s clip: ¡Hola! Soy Axi, el ajolote.
+
+errores: 
